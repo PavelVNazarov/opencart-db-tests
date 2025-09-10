@@ -38,3 +38,11 @@ tests/test_customer.py::TestCustomer::test_delete_nonexistent_customer PASSED   
 ========================================================== 5 passed in 0.13s ===========================================================
 
 (.venv) D:\PythonProject\opencart_db_framework>
+
+
+git init
+git add .
+git commit -m "Complete OpenCart DB testing framework with PyMySQL"
+git remote add origin https://github.com/PavelVNazarov/opencart-db-tests.git
+git branch -M main
+git push -u origin main
