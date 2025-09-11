@@ -43,6 +43,8 @@ tests/test_customer.py::TestCustomer::test_delete_nonexistent_customer PASSED   
 git init
 git add .
 git commit -m "Complete OpenCart DB testing framework with PyMySQL"
-git remote add origin https://github.com/PavelVNazarov/opencart-db-tests.git
+git remote add origin https://github.com/Tanuuu1147/opencart-db-tests.git
 git branch -M main
 git push -u origin main
+
+
