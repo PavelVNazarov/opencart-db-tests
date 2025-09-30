@@ -92,6 +92,10 @@ opencart_db_framework/
 
 ├── tests/
 
+│   ├── conftest.py
+
+│   ├── test_category.py
+
 │   ├── test_customer.py      # Тесты для клиентов
 
 │   └── test_product.py       # Тесты для товаров и категорий
